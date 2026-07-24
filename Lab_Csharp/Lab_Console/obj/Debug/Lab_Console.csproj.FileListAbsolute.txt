@@ -1,0 +1,11 @@
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\bin\Debug\Lab_Console.exe.config
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\bin\Debug\Lab_Console.exe
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\bin\Debug\Lab_Console.pdb
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.csproj.AssemblyReference.cache
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.csproj.CoreCompileInputs.cache
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.exe
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\obj\Debug\Lab_Console.pdb
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\bin\Debug\Lab_Csharp.exe
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\bin\Debug\Lab_Csharp.pdb
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\bin\Debug\Lab_Csharp.exe.config
+C:\Shared\2.C#\Lab_Csharp\Lab_Console\obj\Debug\Lab_Cons.7CDD6EC9.Up2Date

@@ -1,0 +1,11 @@
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\bin\Debug\Lab_Csharp.exe.config
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\bin\Debug\Lab_Csharp.exe
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\bin\Debug\Lab_Csharp.pdb
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Form.csproj.AssemblyReference.cache
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_HelloForm.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Properties.Resources.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Form.csproj.GenerateResource.cache
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Form.csproj.CoreCompileInputs.cache
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.exe
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.pdb
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M04.resources
