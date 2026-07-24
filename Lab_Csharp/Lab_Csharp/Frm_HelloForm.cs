@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Windows.Forms;
 
-namespace Lab_Csharp
+namespace Lab_Form
 {
     public  partial class Frm_HelloForm : System.Windows.Forms.Form
     {

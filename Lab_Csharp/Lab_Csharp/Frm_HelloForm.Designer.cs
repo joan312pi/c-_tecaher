@@ -1,4 +1,4 @@
-﻿namespace Lab_Csharp
+﻿namespace Lab_Form
 {
     partial class Frm_HelloForm
     {

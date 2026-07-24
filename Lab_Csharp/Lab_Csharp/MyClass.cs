@@ -5,9 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Lab_Csharp
+namespace Lab_Form
 {
-    internal class MyClass
+    public partial class MyClass
     {
         internal void MyNewMethod()
         {

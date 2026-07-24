@@ -1,4 +1,4 @@
-﻿namespace Lab_Csharp
+﻿namespace Lab_Form
 {
     partial class Frm_M04
     {
@@ -33,6 +33,10 @@
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.button4 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
+            this.button6 = new System.Windows.Forms.Button();
+            this.btnRegisterEvent01 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnOpenHelloForm
@@ -85,11 +89,54 @@
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(573, 301);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(177, 35);
+            this.button4.TabIndex = 5;
+            this.button4.Text = "Partial Class";
+            this.button4.UseVisualStyleBackColor = true;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
+            // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(98, 39);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(177, 35);
+            this.button5.TabIndex = 6;
+            this.button5.Text = "new Member";
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // button6
+            // 
+            this.button6.Location = new System.Drawing.Point(98, 125);
+            this.button6.Name = "button6";
+            this.button6.Size = new System.Drawing.Size(177, 33);
+            this.button6.TabIndex = 7;
+            this.button6.Text = "註冊事件";
+            this.button6.UseVisualStyleBackColor = true;
+            this.button6.Click += new System.EventHandler(this.button6_Click);
+            // 
+            // btnRegisterEvent01
+            // 
+            this.btnRegisterEvent01.Location = new System.Drawing.Point(101, 179);
+            this.btnRegisterEvent01.Name = "btnRegisterEvent01";
+            this.btnRegisterEvent01.Size = new System.Drawing.Size(174, 35);
+            this.btnRegisterEvent01.TabIndex = 8;
+            this.btnRegisterEvent01.Text = "RegisterEvent01";
+            this.btnRegisterEvent01.UseVisualStyleBackColor = true;
+            // 
             // Frm_M04
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnRegisterEvent01);
+            this.Controls.Add(this.button6);
+            this.Controls.Add(this.button5);
+            this.Controls.Add(this.button4);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
@@ -108,5 +155,9 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button button6;
+        private System.Windows.Forms.Button btnRegisterEvent01;
     }
 }

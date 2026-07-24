@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Lab_Csharp.Properties
+namespace Lab_Form.Properties
 {
 
 

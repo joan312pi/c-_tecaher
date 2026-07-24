@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Lab_Form;
 
 namespace Lab_Console
 {
@@ -19,6 +20,11 @@ namespace Lab_Console
             //Console.Write("請輸入姓名:");
             //string name =  Console.ReadLine();   // string => 字串
             //Console.WriteLine("Hello, " + name + "!");
+
+            MyClass mc =  new MyClass();
+            mc.Method04();
+            mc.Method05();
+            mc.Method06();
         }
     }
 }
