@@ -27,7 +27,13 @@ namespace Lab_Form
         private void btnOpenHelloForm_Click(object sender, EventArgs e)
         {
             Frm_HelloForm hello = new Frm_HelloForm();
-            hello.ShowDialog();
+            DialogResult result =  hello.ShowDialog();
+
+            if(result == DialogResult.OK)
+            {
+                MessageBox.Show("OK");
+            }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -95,13 +101,82 @@ namespace Lab_Form
         {
             //this.btnOpenHelloForm.Click += new System.EventHandler(this.btnOpenHelloForm_Click);
             btnRegisterEvent01.Click += new EventHandler(RegisterEvent01_Click);
+            //btnRegisterEvent02.Click += MyString;
+            btnRegisterEvent02.Click += RegisterEvent02_Click;
         }
+
+        string MyString()
+        {
+            return "";
+        }
+
+        private void RegisterEvent02_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Register Event 02");
+        }
+
+        //private void RegisterEvent02_Click(object sender, EventArgs e)
+        //{
+        //    MessageBox.Show("Register Event 02");
+        //}
 
         private void RegisterEvent01_Click (object sender , EventArgs e)
         {
             MessageBox.Show("Register Event 01");
         }
 
+        private void btnDelegate_Click(object sender, EventArgs e)
+        {
+            //  當現在時間 分是奇數, 以A方案計價, 反之為B方案
+            Payment pay;
 
+            if(DateTime.Now.Minute%2 == 0)
+            {
+                pay = priceB;
+            }
+            else
+            {
+                pay = priceA;
+            }
+
+             decimal amount = decimal.Parse(  txtPrice.Text);
+            decimal result = pay(amount);
+            MessageBox.Show("價格: " + result);
+        }
+
+        delegate decimal Payment (decimal amount);
+
+        decimal priceA(decimal OPrice)
+        {
+            decimal pA = OPrice * Convert.ToDecimal( 0.8);
+            return pA;
+        }
+
+        decimal priceB(decimal OPrice)
+        {
+            decimal pB = OPrice * Convert.ToDecimal(1.2);
+            return pB;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+           DialogResult result =  MessageBox.Show("今天是星期一嗎?", "問你喔", 
+                MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question);
+
+            if(result == DialogResult.Yes)
+            {
+                MessageBox.Show("答對了");
+            }
+            else
+            {
+                MessageBox.Show("答錯了");
+            }
+
+
+            float ft =  0.001F;
+
+            decimal dec = 10000;
+
+        }
     }
 }

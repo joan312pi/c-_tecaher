@@ -32,6 +32,7 @@
             this.labName = new System.Windows.Forms.Label();
             this.btnHello = new System.Windows.Forms.Button();
             this.txtName = new System.Windows.Forms.TextBox();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // labName
@@ -48,6 +49,7 @@
             // 
             // btnHello
             // 
+            this.btnHello.DialogResult = System.Windows.Forms.DialogResult.OK;
             this.btnHello.Font = new System.Drawing.Font("新細明體", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.btnHello.Location = new System.Drawing.Point(505, 376);
             this.btnHello.Name = "btnHello";
@@ -65,6 +67,18 @@
             this.txtName.Size = new System.Drawing.Size(136, 35);
             this.txtName.TabIndex = 2;
             // 
+            // button1
+            // 
+            this.button1.DialogResult = System.Windows.Forms.DialogResult.OK;
+            this.button1.Font = new System.Drawing.Font("新細明體", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
+            this.button1.Location = new System.Drawing.Point(505, 12);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(177, 39);
+            this.button1.TabIndex = 3;
+            this.button1.Text = "呼叫StaticCount";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Frm_HelloForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
@@ -73,12 +87,12 @@
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.ClientSize = new System.Drawing.Size(712, 450);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.txtName);
             this.Controls.Add(this.btnHello);
             this.Controls.Add(this.labName);
             this.Name = "Frm_HelloForm";
             this.Text = "Hello From";
-           
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -89,6 +103,7 @@
         private System.Windows.Forms.Label labName;
         private System.Windows.Forms.Button btnHello;
         private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.Button button1;
     }
 }
 

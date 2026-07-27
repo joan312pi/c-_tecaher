@@ -3,15 +3,23 @@
   "WorkspaceRootPath": "C:\\Shared\\2.C#\\Lab_Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,12 +27,24 @@
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m11.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m11.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,8 +53,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 810,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 1243,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,78 +66,148 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Frm_M04.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs [\u8A2D\u8A08]*",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M04.cs [\u8A2D\u8A08]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T08:23:16.28Z",
-              "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Frm_M04.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs*",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M04.cs*",
-              "ViewState": "AgIAAFYAAAAAAAAAAADgv2UAAAAxAAAAAAAAAA==",
+              "Title": "Frm_M11.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs*",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M11.cs*",
+              "ViewState": "AgIAAEQAAAAAAAAAAADgv1EAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T07:38:59.308Z",
+              "WhenOpened": "2026-07-27T05:44:17.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Frm_HelloForm.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.cs [\u8A2D\u8A08]",
+              "Title": "Frm_M04.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M04.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:34:52.516Z",
+              "WhenOpened": "2026-07-27T01:13:02.086Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Frm_M11.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M11.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T05:42:25.591Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_HelloForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs [\u8A2D\u8A08]*",
+              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.cs [\u8A2D\u8A08]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T02:52:41.806Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Frm_HelloForm.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBIAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs*",
+              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.cs*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAASwBcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T05:36:34.923Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
+              "Title": "Frm_M11.Designer.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.Designer.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.Designer.cs*",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M11.Designer.cs*",
+              "ViewState": "AgIAAK8AAAAAAAAAAAAswL0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T05:45:05.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_M04.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M04.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAYwKsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-23T07:38:59.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Program.cs",
               "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Program.cs",
               "RelativeToolTip": "Lab_Csharp\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T09:00:39.591Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
+              "Title": "Frm_M04.Designer.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.Designer.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.Designer.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.Designer.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M04.Designer.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAewKIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T01:12:52.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Frm_HelloForm.Designer.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.Designer.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.Designer.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.Designer.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.Designer.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.Designer.cs*",
+              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.Designer.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-23T05:38:25.177Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 972,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Utility.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Utility.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Utility.cs",
+              "RelativeToolTip": "Lab_Csharp\\Utility.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T07:36:54.688Z",
               "EditorCaption": ""
             }
           ]

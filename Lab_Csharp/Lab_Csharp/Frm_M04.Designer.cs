@@ -37,11 +37,16 @@
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.btnRegisterEvent01 = new System.Windows.Forms.Button();
+            this.btnRegisterEvent02 = new System.Windows.Forms.Button();
+            this.btnDelegate = new System.Windows.Forms.Button();
+            this.txtPrice = new System.Windows.Forms.TextBox();
+            this.button7 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnOpenHelloForm
             // 
-            this.btnOpenHelloForm.Location = new System.Drawing.Point(573, 39);
+            this.btnOpenHelloForm.Location = new System.Drawing.Point(290, 28);
             this.btnOpenHelloForm.Name = "btnOpenHelloForm";
             this.btnOpenHelloForm.Size = new System.Drawing.Size(177, 35);
             this.btnOpenHelloForm.TabIndex = 0;
@@ -51,7 +56,7 @@
             // 
             // btnMethod
             // 
-            this.btnMethod.Location = new System.Drawing.Point(573, 99);
+            this.btnMethod.Location = new System.Drawing.Point(290, 88);
             this.btnMethod.Name = "btnMethod";
             this.btnMethod.Size = new System.Drawing.Size(177, 35);
             this.btnMethod.TabIndex = 1;
@@ -61,7 +66,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(573, 153);
+            this.button1.Location = new System.Drawing.Point(290, 142);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(177, 35);
             this.button1.TabIndex = 2;
@@ -71,7 +76,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(573, 207);
+            this.button2.Location = new System.Drawing.Point(290, 196);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(177, 35);
             this.button2.TabIndex = 3;
@@ -81,7 +86,7 @@
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(573, 260);
+            this.button3.Location = new System.Drawing.Point(290, 249);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(177, 35);
             this.button3.TabIndex = 4;
@@ -91,7 +96,7 @@
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(573, 301);
+            this.button4.Location = new System.Drawing.Point(290, 290);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(177, 35);
             this.button4.TabIndex = 5;
@@ -101,7 +106,7 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(98, 39);
+            this.button5.Location = new System.Drawing.Point(23, 28);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(177, 35);
             this.button5.TabIndex = 6;
@@ -111,7 +116,7 @@
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(98, 125);
+            this.button6.Location = new System.Drawing.Point(23, 114);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(177, 33);
             this.button6.TabIndex = 7;
@@ -121,18 +126,71 @@
             // 
             // btnRegisterEvent01
             // 
-            this.btnRegisterEvent01.Location = new System.Drawing.Point(101, 179);
+            this.btnRegisterEvent01.Location = new System.Drawing.Point(26, 168);
             this.btnRegisterEvent01.Name = "btnRegisterEvent01";
             this.btnRegisterEvent01.Size = new System.Drawing.Size(174, 35);
             this.btnRegisterEvent01.TabIndex = 8;
             this.btnRegisterEvent01.Text = "RegisterEvent01";
             this.btnRegisterEvent01.UseVisualStyleBackColor = true;
             // 
+            // btnRegisterEvent02
+            // 
+            this.btnRegisterEvent02.Location = new System.Drawing.Point(26, 220);
+            this.btnRegisterEvent02.Name = "btnRegisterEvent02";
+            this.btnRegisterEvent02.Size = new System.Drawing.Size(174, 35);
+            this.btnRegisterEvent02.TabIndex = 9;
+            this.btnRegisterEvent02.Text = "RegisterEvent02";
+            this.btnRegisterEvent02.UseVisualStyleBackColor = true;
+            // 
+            // btnDelegate
+            // 
+            this.btnDelegate.Location = new System.Drawing.Point(26, 334);
+            this.btnDelegate.Name = "btnDelegate";
+            this.btnDelegate.Size = new System.Drawing.Size(174, 35);
+            this.btnDelegate.TabIndex = 10;
+            this.btnDelegate.Text = "Delegate";
+            this.btnDelegate.UseVisualStyleBackColor = true;
+            this.btnDelegate.Click += new System.EventHandler(this.btnDelegate_Click);
+            // 
+            // txtPrice
+            // 
+            this.txtPrice.Location = new System.Drawing.Point(26, 271);
+            this.txtPrice.Multiline = true;
+            this.txtPrice.Name = "txtPrice";
+            this.txtPrice.PasswordChar = '+';
+            this.txtPrice.ScrollBars = System.Windows.Forms.ScrollBars.Both;
+            this.txtPrice.Size = new System.Drawing.Size(174, 57);
+            this.txtPrice.TabIndex = 11;
+            // 
+            // button7
+            // 
+            this.button7.Location = new System.Drawing.Point(293, 334);
+            this.button7.Name = "button7";
+            this.button7.Size = new System.Drawing.Size(174, 35);
+            this.button7.TabIndex = 12;
+            this.button7.Text = "MessageBox";
+            this.button7.UseVisualStyleBackColor = true;
+            this.button7.Click += new System.EventHandler(this.button7_Click);
+            // 
+            // label1
+            // 
+            this.label1.Location = new System.Drawing.Point(46, 389);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(142, 52);
+            this.label1.TabIndex = 13;
+            this.label1.Text = "label1";
+            this.label1.TextAlign = System.Drawing.ContentAlignment.BottomRight;
+            // 
             // Frm_M04
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(511, 450);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.button7);
+            this.Controls.Add(this.txtPrice);
+            this.Controls.Add(this.btnDelegate);
+            this.Controls.Add(this.btnRegisterEvent02);
             this.Controls.Add(this.btnRegisterEvent01);
             this.Controls.Add(this.button6);
             this.Controls.Add(this.button5);
@@ -145,6 +203,7 @@
             this.Name = "Frm_M04";
             this.Text = "Frm_M04";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -159,5 +218,10 @@
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Button button6;
         private System.Windows.Forms.Button btnRegisterEvent01;
+        private System.Windows.Forms.Button btnRegisterEvent02;
+        private System.Windows.Forms.Button btnDelegate;
+        private System.Windows.Forms.TextBox txtPrice;
+        private System.Windows.Forms.Button button7;
+        private System.Windows.Forms.Label label1;
     }
 }

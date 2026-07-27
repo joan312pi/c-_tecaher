@@ -25,6 +25,14 @@ namespace Lab_Console
             mc.Method04();
             mc.Method05();
             mc.Method06();
+
+            Program p = new Program();
+            p.MyMethod();
+        }
+
+         void MyMethod()
+        {
+
         }
     }
 }

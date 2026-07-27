@@ -9,3 +9,4 @@ C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.exe
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.pdb
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Form.Frm_HelloForm.resources
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Form.Frm_M04.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M11.resources

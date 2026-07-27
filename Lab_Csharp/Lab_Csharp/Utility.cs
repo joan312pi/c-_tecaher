@@ -12,4 +12,12 @@ namespace Lab_Form
         public string Phone;
         public DateTime BirthDate;
     }
+
+    public class StaticLab
+    {
+        public int InstanceCount;  // 實體屬性的變數
+        public static int StaticCount;  // 靜態屬性的變數, 全域變數
+    }
+
+
 }
