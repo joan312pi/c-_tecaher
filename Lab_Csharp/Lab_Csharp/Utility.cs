@@ -19,5 +19,19 @@ namespace Lab_Form
         public static int StaticCount;  // 靜態屬性的變數, 全域變數
     }
 
+    public enum Role: long
+    {
+        Admin = 10 ,
+        User = 20,
+        User01
+    }
+
+    public struct Product
+    {
+        public string Name;
+        public decimal Price;
+
+    }
+
 
 }
