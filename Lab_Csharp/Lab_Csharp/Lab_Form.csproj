@@ -82,6 +82,18 @@
     <Compile Include="Frm_M15_struct.Designer.cs">
       <DependentUpon>Frm_M15_struct.cs</DependentUpon>
     </Compile>
+    <Compile Include="Frm_M17.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_M17.Designer.cs">
+      <DependentUpon>Frm_M17.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_M19_Array.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_M19_Array.Designer.cs">
+      <DependentUpon>Frm_M19_Array.cs</DependentUpon>
+    </Compile>
     <Compile Include="MyClass.cs" />
     <Compile Include="PartialClass.cs" />
     <Compile Include="Program.cs" />
@@ -104,6 +116,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Frm_M15_struct.resx">
       <DependentUpon>Frm_M15_struct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_M17.resx">
+      <DependentUpon>Frm_M17.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_M19_Array.resx">
+      <DependentUpon>Frm_M19_Array.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

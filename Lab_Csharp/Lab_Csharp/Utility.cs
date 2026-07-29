@@ -10,7 +10,8 @@ namespace Lab_Form
     {
         public string Name;
         public string Phone;
-        public DateTime BirthDate;
+        public DateTime BirthDate = DateTime.Now.AddYears(-18);
+        int defualt = 100;
     }
 
     public class StaticLab
@@ -28,9 +29,26 @@ namespace Lab_Form
 
     public struct Product
     {
-        public string Name;
-        public decimal Price;
+        //public string Name;
+        //public decimal Price;
 
+        public Product(string ProductName , string ProductPrice)
+        {
+            Name = ProductName;
+            Price = decimal.Parse(  ProductPrice);
+        }
+
+        public Product(string ProductName, decimal ProductPrice)
+        {
+            Name = ProductName;
+            Price = ProductPrice;
+        }
+
+
+        public string Name { get; set; }
+        public decimal Price { get; set; }
+
+        //public string Dev = "default";
     }
 
 

@@ -13,3 +13,5 @@ C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M11.resources
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M13_CTS.resources
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M14_M15_enum.resources
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M15_struct.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M17.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M19_Array.resources
