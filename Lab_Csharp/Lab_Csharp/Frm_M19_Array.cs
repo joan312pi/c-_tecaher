@@ -37,5 +37,65 @@ namespace Lab_Csharp
 
             MessageBox.Show(result);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+           int[] myArr  = GetRandomArray(10);
+
+            string result = "";
+
+            foreach (int num in myArr)
+            {
+                result += num + "\n";
+            }
+
+            //for(int i = 0; i < myArr.Length; i++)
+            //{
+            //    result += myArr[i] + "\n";
+            //}
+
+            MessageBox.Show(result);
+        }
+        int[] GetRandomArray(int ArrayLength)
+        {
+            int[] arr = new int[ArrayLength];
+
+             Random rd = new Random();
+            
+            for(int i = 0; i < ArrayLength; i++)
+            {
+                //int rNum = rd.Next(100);
+
+                //while(Array.IndexOf(arr, rNum) != -1)
+                //{
+                //    rNum = rd.Next(100);
+                //}
+
+                int rNum = 0;
+                do
+                {
+                    rNum = rd.Next(ArrayLength)+1;
+                } while (Array.IndexOf(arr, rNum) != -1);
+
+                arr[i] = rNum;
+            }
+
+            return  arr;
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            int[] arr = { 3, 6, 9 };
+            ArrayParam(arr);
+
+            MessageBox.Show(arr[0].ToString());
+
+        }
+
+        void ArrayParam(int[] array)
+        {
+            array[0] += 100;
+        }
+
     }
 }

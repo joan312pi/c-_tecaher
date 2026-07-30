@@ -15,3 +15,7 @@ C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M14_M15_enum.resou
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M15_struct.resources
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M17.resources
 C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M19_Array.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M21_進階方法.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M22_ArrayList傳統集合.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M22_List泛用集合.resources
+C:\Shared\2.C#\Lab_Csharp\Lab_Csharp\obj\Debug\Lab_Csharp.Frm_M24_Debug.resources

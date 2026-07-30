@@ -3,68 +3,108 @@
   "WorkspaceRootPath": "C:\\Shared\\2.C#\\Lab_Csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m24_debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m24_debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m24_debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m24_debug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m22_list\u6CDB\u7528\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m22_list\u6CDB\u7528\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m22_list\u6CDB\u7528\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m22_list\u6CDB\u7528\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m22_arraylist\u50B3\u7D71\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m22_arraylist\u50B3\u7D71\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m22_arraylist\u50B3\u7D71\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m22_arraylist\u50B3\u7D71\u96C6\u5408.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m21_\u9032\u968E\u65B9\u6CD5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m21_\u9032\u968E\u65B9\u6CD5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m21_\u9032\u968E\u65B9\u6CD5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m21_\u9032\u968E\u65B9\u6CD5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m14_m15_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m14_m15_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m15_struct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m13_cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m13_cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|c:\\shared\\2.c#\\lab_csharp\\lab_csharp\\frm_m13_cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m13_cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m14_m15_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m14_m15_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m13_cts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m13_cts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m14_m15_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m14_m15_enum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m13_cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m13_cts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m19_array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_helloform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m13_cts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|solutionrelative:lab_csharp\\frm_m13_cts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5BD23A9-C1EC-41AE-9EEA-681C394F41F9}|Lab_Csharp\\Lab_Form.csproj|C:\\Shared\\2.C#\\Lab_Csharp\\lab_csharp\\frm_m04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -85,7 +125,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 1677,
+          "DockedWidth": 1714,
           "SelectedChildIndex": 2,
           "Children": [
             {
@@ -99,107 +139,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Frm_M19_Array.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M19_Array.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M19_Array.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAfAAAAAAAAAA==",
+              "Title": "Frm_M24_Debug.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M24_Debug.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M24_Debug.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M24_Debug.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M24_Debug.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwBgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T08:21:27.872Z",
+              "WhenOpened": "2026-07-30T08:15:54.269Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Frm_M19_Array.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M19_Array.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M19_Array.cs [\u8A2D\u8A08]",
+              "DocumentIndex": 1,
+              "Title": "Frm_M24_Debug.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M24_Debug.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M24_Debug.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M24_Debug.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M24_Debug.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T08:21:05.325Z",
+              "WhenOpened": "2026-07-30T08:15:38.516Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "Frm_HelloForm.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T07:59:56.929Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADgvxgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T07:30:11.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Program.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Program.cs",
               "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Program.cs",
               "RelativeToolTip": "Lab_Csharp\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-29T03:42:21.053Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Frm_M17.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M17.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M17.cs",
-              "ViewState": "AgIAAJwAAAAAAAAAAAAxwKUAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M22_List\u6CDB\u7528\u96C6\u5408.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T03:38:04.695Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Frm_M17.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M17.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M17.cs [\u8A2D\u8A08]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-29T03:36:46.208Z",
+              "WhenOpened": "2026-07-30T07:29:42.024Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Frm_M15_struct.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M15_struct.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M15_struct.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAgwC8AAAANAAAAAAAAAA==",
+              "Title": "Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAIwDMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T08:22:11.49Z",
+              "WhenOpened": "2026-07-30T06:20:42.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Frm_M15_struct.cs [\u8A2D\u8A08]",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M15_struct.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs [\u8A2D\u8A08]",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M15_struct.cs [\u8A2D\u8A08]",
+              "DocumentIndex": 7,
+              "Title": "Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M22_ArrayList\u50B3\u7D71\u96C6\u5408.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T08:07:49.448Z",
+              "WhenOpened": "2026-07-30T05:55:09.343Z",
               "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Frm_M11.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M11.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAASwFAAAAAnAAAAAAAAAA==",
+              "Title": "Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T05:44:17.538Z",
+              "WhenOpened": "2026-07-30T02:55:12.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Frm_M21_\u9032\u968E\u65B9\u6CD5.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M21_\u9032\u968E\u65B9\u6CD5.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:53:09.69Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Frm_M11.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.cs",
@@ -211,7 +275,145 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
+              "Title": "Frm_M11.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M11.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wDEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T05:44:17.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frm_M15_struct.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M15_struct.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M15_struct.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T08:07:49.448Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Frm_M15_struct.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M15_struct.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M15_struct.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M15_struct.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T08:22:11.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Frm_M19_Array.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M19_Array.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M19_Array.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T08:21:05.325Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Frm_M13_CTS.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M13_CTS.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M13_CTS.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T01:43:57.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Frm_M13_CTS.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M13_CTS.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M13_CTS.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T02:51:05.056Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Frm_M17.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M17.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M17.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwC8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T03:38:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Frm_M17.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M17.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M17.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M17.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T03:36:46.208Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Frm_M14_M15_enum.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M14_M15_enum.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M14_M15_enum.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:46:04.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Frm_M14_M15_enum.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M14_M15_enum.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M14_M15_enum.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:45:28.388Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Frm_M19_Array.cs",
+              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs",
+              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M19_Array.cs",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M19_Array.cs",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M19_Array.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-29T08:21:27.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "Frm_HelloForm.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.cs",
@@ -224,19 +426,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Frm_M14_M15_enum.cs [Design]",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M14_M15_enum.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs [Design]",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M14_M15_enum.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T02:45:28.388Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 23,
               "Title": "Frm_M04.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.cs",
@@ -249,7 +439,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "Frm_HelloForm.Designer.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_HelloForm.Designer.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_HelloForm.Designer.cs",
@@ -257,24 +447,12 @@
               "RelativeToolTip": "Lab_Csharp\\Frm_HelloForm.Designer.cs",
               "ViewState": "AgIAAEcAAAAAAAAAAAAxwFsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-23T05:38:25.177Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Frm_M14_M15_enum.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M14_M15_enum.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M14_M15_enum.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M14_M15_enum.cs",
-              "ViewState": "AgIAAJMAAAAAAAAAAAAEwLcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T02:46:04.311Z",
+              "WhenOpened": "2026-07-23T05:38:25.177Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "Frm_M13_CTS.Designer.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.Designer.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M13_CTS.Designer.cs",
@@ -282,35 +460,24 @@
               "RelativeToolTip": "Lab_Csharp\\Frm_M13_CTS.Designer.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAowFEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:49:19.934Z"
+              "WhenOpened": "2026-07-28T01:49:19.934Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Frm_M13_CTS.cs",
-              "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.cs",
-              "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M13_CTS.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M13_CTS.cs",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M13_CTS.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAqwCIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-28T01:43:57.568Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Frm_M04.cs [Design]",
+              "DocumentIndex": 26,
+              "Title": "Frm_M04.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.cs",
-              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs [Design]",
-              "RelativeToolTip": "Lab_Csharp\\Frm_M04.cs [Design]",
+              "ToolTip": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Lab_Csharp\\Frm_M04.cs [\u8A2D\u8A08]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-27T01:13:02.086Z",
-              "EditorCaption": " [Design]"
+              "EditorCaption": " [\u8A2D\u8A08]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 27,
               "Title": "Frm_M11.Designer.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M11.Designer.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M11.Designer.cs",
@@ -323,7 +490,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 28,
               "Title": "Frm_M04.Designer.cs",
               "DocumentMoniker": "C:\\Shared\\2.C#\\Lab_Csharp\\Lab_Csharp\\Frm_M04.Designer.cs",
               "RelativeDocumentMoniker": "Lab_Csharp\\Frm_M04.Designer.cs",
@@ -331,7 +498,8 @@
               "RelativeToolTip": "Lab_Csharp\\Frm_M04.Designer.cs",
               "ViewState": "AgIAAJIAAAAAAAAAAAAewKIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-27T01:12:52.91Z"
+              "WhenOpened": "2026-07-27T01:12:52.91Z",
+              "EditorCaption": ""
             }
           ]
         }

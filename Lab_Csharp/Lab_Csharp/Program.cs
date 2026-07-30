@@ -17,7 +17,7 @@ namespace Lab_Form
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Frm_M19_Array());
+            Application.Run(new Frm_M24_Debug());
         }
     }
 }
